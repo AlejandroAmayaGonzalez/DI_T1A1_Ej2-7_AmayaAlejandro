@@ -1,1 +1,3 @@
-# DI_T1A1_Ej2-7_AmayaAlejandro
+Autor: Alejandro Amaya González |
+Asignatura: DI |
+Actividad 2.7
